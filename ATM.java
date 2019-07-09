@@ -4,7 +4,7 @@ import java.util.Scanner;
  *then displays the combination of various denominations.
  *
  *Project 2 (ATM)
- *@author Erika Yardumian - CPSC - 1213
+ *@author Erika Yardumian 
  *@version 8/30/18
  */
 public class ATM
@@ -49,6 +49,4 @@ public class ATM
             + "(" + fives + " * $5" + ")" + " + " + "(" + ones + " * $1" + ")");
       }
    }
- 
- 
 }
